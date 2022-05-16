@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581621181796",
+    "project_id": "rooftopispy",
+    "storage_bucket": "rooftopispy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581621181796:android:93849b8cdc93ba932e9e71",
+        "android_client_info": {
+          "package_name": "com.example.rooftop_ispy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581621181796-cgdqh4le54m8m6o7bs3s63t658g9sn9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbbFxbT8VB4Npp4LRYXteLz68irenFKyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581621181796-cgdqh4le54m8m6o7bs3s63t658g9sn9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
